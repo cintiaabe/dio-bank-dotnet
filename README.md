@@ -1,4 +1,4 @@
-# dio-bank-dotnet
+# Repositório exemplo curso DIO
 Repositório exemplo do Projeto DIO transações bancárias
 
 ## links uteis
