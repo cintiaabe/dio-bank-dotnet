@@ -1,2 +1,5 @@
 # dio-bank-dotnet
-Projeto exemplo DIO transações bancárias
+Repositório exemplo do Projeto DIO transações bancárias
+
+## links uteis
+[sintaxe basica Markdown](www.markdownguide.org/basic-syntax/)
