@@ -1,0 +1,10 @@
+comandos git
+
+git status 
+
+
+git add .    - adiciona na máquina local as diferenças
+
+git commit -m "inclusão das anotações de comandos"  - salva nova versão na máquina local
+
+git push origim main  - envia altarções para nuvem github
